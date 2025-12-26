@@ -1,31 +1,63 @@
-# 💫 About Me:
-### Professional Profile – Systems Developer with AI Passion<br><br>**🔭 Currently working on**  <br>AI-enabled system tools:  <br>- **mcp-system-monitor** (Rust) – Model Context Protocol server for AI agents to access real-time Linux metrics (CPU, memory, disk, network, processes) via protocol and REST. Latest commits Dec 25, 2025.  <br>- **batt-watt-power-monitor** (JavaScript) – GNOME extension for battery wattage, percentage, and time remaining.<br><br>**👯 Open to collaboration on**  <br>AI agent integrations, Rust systems programming, GNOME extensions, performance monitoring, or utility tools in Julia/Kotlin/C#.<br><br>**🤝 Seeking help with**  <br>Expanding AI features in **mcp-system-monitor**, deepening Julia projects (**fui_julia**), or refining C# utilities (**ConfigReplacer**, **CSVGenerator**).<br><br>**🌱 Currently learning**  <br>Rust for agentic AI systems, advanced Julia, shell optimizations (**zsh-bench**), and always open to new ideas—beginner mindset, stealing knowledge daily.<br><br>**💬 Ask me about**  <br>AI agent protocols (MCP), system monitoring, Android automation (**Snapify**), config/CSV tools, or emerging trends in agentic AI.<br><br>**⚡ Fun fact**  <br>Outside code, I hit the gym hard—balancing reps with Rust compiles for that perfect pump. Open to any wild ideas; throw 'em at me.
+# 💫 About Me
 
+### Systems Developer | AI Agent Tools Enthusiast | Gym Addict
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0vIqfOezDzWH37LA) 
+**🔭 Currently working on**  
+AI-powered system monitoring:  
+- **mcp-system-monitor** (Rust) – MCP server for AI agents to query real-time Linux metrics (CPU, memory, disk, network, processes). Fresh commits Dec 25, 2025.  
+- **batt-watt-power-monitor** (JavaScript) – GNOME Shell extension showing battery percentage, time remaining, and real-time power draw in Watts.  
+- **zsh-bench** (Shell) – ZSH startup performance analyzer (updated Dec 21, 2025).
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= DarkPhilosophy&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user= DarkPhilosophy&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= DarkPhilosophy&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**👯 Open to collaboration on**  
+Agentic AI integrations, Rust systems tools, GNOME extensions, performance benchmarking, Android utilities (Kotlin), or C# automation libs.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username= DarkPhilosophy&theme=react&no-frame=false&no-bg=false&margin-w=4)
+**🤝 Seeking contributions for**  
+Expanding MCP/AI features in **mcp-system-monitor**, advancing Julia experiments (**fui_julia**), refining C# tools (**ConfigReplacer**, **CSVGenerator**, **Common**).
+
+**🌱 Currently learning**  
+Deeper Rust for agentic systems, advanced Julia, shell optimization tricks—and always hungry for new ideas. Beginner mindset: stealing knowledge every day.
+
+**💬 Ask me about**  
+MCP protocols for AI agents, Linux system monitoring, GNOME extensions, Android screenshot automation (**Snapify**), config/CSV utilities, or trending agentic AI tools.
+
+**⚡ Fun fact**  
+I balance heavy Rust compiles with heavy gym reps—chasing that perfect pump in code and iron. Got wild ideas? Thrust them my way.
+
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/0vIqfOezDzWH37LA)
+
+## 💻 Tech Stack
+![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Julia](https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![.NET](https://img.shields.io/badge/.net-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=DarkPhilosophy&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DarkPhilosophy&theme=chartreuse-dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhilosophy&theme=chartreuse-dark&hide_border=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username= DarkPhilosophy&limit=5&theme=default&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=DarkPhilosophy&limit=8&theme=chartreuse-dark&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id= DarkPhilosophy&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DarkPhilosophy&icon=2&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Cooming Soon) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Cooming Soon) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Cooming Soon) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Cooming Soon) 
+## 💰 Support My Work
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darkphilosophy)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/darkphilosophy)
+<!-- Replace placeholders with real links when ready -->
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM[](https://gprm.itsvg.in) -->
