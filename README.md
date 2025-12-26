@@ -46,9 +46,6 @@ I balance heavy Rust compiles with heavy gym reps—chasing that perfect pump in
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DarkPhilosophy&theme=chartreuse-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhilosophy&theme=chartreuse-dark&hide_border=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=DarkPhilosophy&limit=8&theme=chartreuse-dark&hide_border=true&combine_all_yearly_contributions=true)
 
