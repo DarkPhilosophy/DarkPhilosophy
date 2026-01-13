@@ -40,11 +40,6 @@ Building next-generation infrastructure for AI agents and performance monitoring
 </details>
 <!--END_SECTION:about_me-->
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DarkPhilosophy&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DarkPhilosophy&theme=chartreuse-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhilosophy&theme=chartreuse-dark&hide_border=true&layout=compact&count_private=true)
-
 <!-- ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=DarkPhilosophy&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 -->
