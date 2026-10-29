@@ -21,9 +21,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      # One-time prerequisite: Settings > Pages > Source > GitHub Actions.
+      # GITHUB_TOKEN cannot create a Pages site; `enablement: true` is not sufficient.
       - name: Configure Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Upload static site
         uses: actions/upload-pages-artifact@v4
         with:
