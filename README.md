@@ -1,115 +1,78 @@
+<div align="center">
+  <a href="https://github.com/DarkPhilosophy">
+    <img src="./assets/profile-header.svg" width="100%" alt="DarkPhilosophy — Low Level. High Ambition. System Architect, AI systems and independent game worlds." />
+  </a>
+  <br />
+  <br />
+  <b>SYSTEM ARCHITECT &nbsp;·&nbsp; OPEN-SOURCE DEVELOPER &nbsp;·&nbsp; GAME CREATOR</b>
+  <br />
+  <sub>I engineer what runs beneath the surface — and imagine what lives beyond it.</sub>
+  <br />
+  <br />
+  <a href="https://darkphilosophy.github.io/DarkPhilosophy/">Interactive Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://axxa.dev">AXXA.DEV</a> &nbsp;·&nbsp;
+  <a href="https://github.com/DarkPhilosophy?tab=repositories">All Repositories</a>
+</div>
 
+---
 
-<!--START_SECTION:about_me-->
-<details><summary><h3> <strong> ⚡ Beyond Code by DarkPhilosophy 💫</strong> <h4>Maintains a disciplined balance between intensive development cycles and structured physical training. Believes in optimizing both system performance and personal energy management through deliberate practice and continuous improvement. 
-<div align="center"><br><h1><strong>⬐ </strong><h2>click to expand <h1><strong>⬎</strong></div></summary>
+### `> about --short`
 
-### 🔭 **Current Focus**
-Building next-generation infrastructure for AI agents and performance monitoring systems.
+I'm **Alex / DarkPhilosophy**. I design and build software across **Linux internals, agentic AI systems, developer tooling, performance engineering, and desktop experiences**. I also develop original games, where the problems are different but the architectural mindset stays the same.
 
-### 🚀 **Core Projects:**
-- **`mcp-system-monitor`** (Rust) – Production-grade MCP server enabling AI agents to securely query real-time Linux system metrics via standardized protocols. Features granular resource monitoring, process analytics, and secure API endpoints. *Latest: Dec 2025*
-- **`batt-watt-power-monitor`** (JavaScript) – GNOME Shell extension providing advanced power telemetry with Watt-level precision, battery health analytics, and predictive runtime estimation.
-- **`zsh-bench`** (Shell) – Enterprise-grade ZSH performance profiling suite with plugin optimization recommendations and startup time analytics.
+I like software that is fast, comprehensible, maintainable, and worth using.
 
-### 🤝 **Collaboration Opportunities**
-- **Agentic AI Systems**: MCP implementations, autonomous agent tooling, observability frameworks
-- **Systems Programming**: Rust performance optimization, low-latency architectures, kernel-level tooling
-- **Desktop Ecosystem**: GNOME extensions, Linux desktop automation, system integration
-- **Cross-Platform Tools**: Android automation (Kotlin), C# utilities, scientific computing pipelines
+### `> projects --in-development`
 
-### 🛠 **Seeking Contributions**
-- **`mcp-system-monitor`**: Protocol extensions, additional metric collectors, security hardening
-- **`fui_julia`**: Numerical computing libraries, scientific visualization, parallel processing
-- **C# Tool Suite**: `ConfigReplacer`, `CSVGenerator`, `Common` – enterprise automation enhancements
+| Project | Focus | Status |
+| :--- | :--- | :--- |
+| **Attyx** | Terminal engine + graphical workspace | `IN DEVELOPMENT` |
+| **Heresia** | Experimental software project | `IN DEVELOPMENT` |
+| **Peersus** | Secure peer-to-peer file sharing concept with planned E2E encryption, device pairing and clipboard sync | `IN DEVELOPMENT` |
+| **Timehacker** | Cyberpunk 2D/3D JRPG adventure built around time manipulation | `IN DEVELOPMENT` |
+| **Project Pandorium** | Original game; further details not yet public | `IN DEVELOPMENT` |
 
-### 📚 **Continuous Learning**
-- **Advanced Rust**: Zero-cost abstractions, async systems, embedded profiling
-- **Modern Julia**: High-performance numerical computing, GPU acceleration
-- **Systems Architecture**: Distributed monitoring, protocol design, performance optimization
-- **Emergent Technologies**: AI agent toolchains, hardware telemetry, quantum-classical interfaces
+### `> worlds --preview`
 
-### 💡 **Expertise Areas**
-- **AI Agent Infrastructure**: MCP protocol design, agent observability, tool integration
-- **Linux Systems**: Real-time monitoring, kernel instrumentation, performance tuning
-- **Desktop Development**: GNOME Shell extensions, system integration, UX optimization
-- **Mobile Automation**: Android background services, accessibility automation, media processing
-- **Data Engineering**: Configuration management, CSV/parquet tooling, ETL pipelines
-- **Developer Tooling**: Shell optimization, benchmarking frameworks, productivity enhancers
+<table>
+  <tr>
+    <td width="50%" align="center"><img src="./site/assets/timehacker-city.svg" alt="Original concept artwork for Timehacker: a neon cyberpunk city" /><br /><b>TIMEHACKER</b><br /><sub>Cyberpunk · 2D/3D · JRPG · Time manipulation</sub></td>
+    <td width="50%" align="center"><img src="./site/assets/pandorium-portal.svg" alt="Original concept artwork for Project Pandorium: a violet portal" /><br /><b>PROJECT PANDORIUM</b><br /><sub>Original game · In development · Details to be revealed</sub></td>
+  </tr>
+</table>
 
-</details>
-<!--END_SECTION:about_me-->
+<sub>Concept art created for this profile; not actual in-game screenshots.</sub>
 
-<!-- ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=DarkPhilosophy&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
--->
+### `> projects --open-source`
 
-## 📈 **Development Activity**
+| Repository | What it explores |
+| :--- | :--- |
+| [`omp-headroom`](https://github.com/DarkPhilosophy/omp-headroom) | Context compression and integration for the Oh My Pi agent ecosystem. |
+| [`mcp-system-monitor`](https://github.com/DarkPhilosophy/mcp-system-monitor) | Linux system observability accessible to AI agents via MCP and HTTP. |
+| [`mcp-system-monitor-js`](https://github.com/DarkPhilosophy/mcp-system-monitor-js) | JavaScript implementation of MCP system telemetry. |
+| [`batt-watt-power-monitor`](https://github.com/DarkPhilosophy/batt-watt-power-monitor) | Power telemetry and battery insight in GNOME Shell. |
+| [`zsh-bench`](https://github.com/DarkPhilosophy/zsh-bench) | Measuring and profiling ZSH startup performance. |
+| [`v`](https://github.com/DarkPhilosophy/v) | Custom Vencord plugins and managed setup experience. |
+| `Snapify` *(private repository)* | Android screenshot management automation. |
 
-### **🧠 Core Languages**
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+### `> philosophy`
 
-### **🔧 Systems & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Observe deeply. Engineer deliberately. Iterate relentlessly.**
 
-<!--## 🏗️ **Technical Architecture** -->
-## 📂 **Featured Projects**
+```text
+SYSTEMS      Linux · Rust · TypeScript · Performance
+AGENTS       MCP · Observability · Tooling · Orchestration
+INTERFACES   Desktop · Terminal · Developer Experience
+WORLDS       Timehacker · Project Pandorium
+EXPERIMENTS  Peersus · Attyx · Heresia
+```
 
-### **🤖 AI Infrastructure**
-- **`mcp-system-monitor`** – Production MCP server for system telemetry
-- **Agent-Observability** – Real-time monitoring for autonomous AI systems
+### `> independent websites`
 
-### **🖥️ Desktop Integration**
-- **`batt-watt-power-monitor`** – Advanced GNOME power analytics
-- **System-Integration-Suite** – Linux desktop automation toolkit
+My main digital home is **[axxa.dev](https://axxa.dev)**. I also work on side projects, including **[poo.wang](https://poo.wang)** and the **[isy.ro](https://isy.ro)** website. Some experiments remain private until they're ready to be shown.
 
-### **⚡ Performance Tooling**
-- **`zsh-bench`** – Professional shell performance suite
-- **Profile-Optimizer** – Cross-platform application profiling
+### `> connect`
 
-### **📱 Mobile Automation**
-- **`Snapify`** – Android screenshot automation framework
-- **Background-Services** – Kotlin-based mobile task automation
+Interested in **systems architecture, performance optimization, developer tools, AI agents, open source, or game development**? Find me through [GitHub](https://github.com/DarkPhilosophy) or [axxa.dev](https://axxa.dev).
 
-### **🛠️ Enterprise Utilities**
-- **`ConfigReplacer`** – Intelligent configuration management
-- **`CSVGenerator`** – High-performance data processing pipeline
-- **`Common Libraries`** – Reusable C# enterprise components
-
-## 📊 **Contribution Impact**
-![](https://github-contributor-stats.vercel.app/api?username=DarkPhilosophy&limit=8&theme=dark&combine_all_yearly_contributions=true&show_icons=true)
-
-## 📬 **Get In Touch**
-- **Discussions**: Agentic AI architectures, performance optimization, systems programming
-- **Collaboration**: Open-source contributions, research partnerships, tool development
-- **Consulting**: AI infrastructure design, performance audits, systems architecture
-
-## 🌐 **Connect With Me**
-#Comming soon
-<!--[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-[![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@yourid:matrix.org)
--->
- 
-## ☕ **Support My Work**
-#Comming soon
-<!--
-<!-- [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/DarkPhilosophy)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
--->
+<div align="center"><sub>ENGINEER SYSTEMS. IMAGINE WORLDS. — DARKPHILOSOPHY</sub></div>
